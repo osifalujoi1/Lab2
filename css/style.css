@@ -1,0 +1,18 @@
+body{
+	background-color: #CC9999;
+	font-family: Monospace;
+	color: black;
+}
+table{
+	margin: .3em;
+	width: .290px;
+}
+td{
+	backgroung-color: #CC9999;
+	border: 1px solid #900; 
+	padding-left: .5em;
+	padding-right: .5em;
+}
+.centerCell{
+	text-align: center;
+}
